@@ -1,0 +1,14 @@
+com.webview.example.flutter_webview.app-jetified-annotation-experimental-1.1.0-0 C:\Users\Administrator\.gradle\caches\transforms-3\02315cc9f75263553d2042718fc375ee\transformed\jetified-annotation-experimental-1.1.0\res
+com.webview.example.flutter_webview.app-jetified-window-1.0.0-beta04-1 C:\Users\Administrator\.gradle\caches\transforms-3\076eb9235982ee06112d76594ea8585f\transformed\jetified-window-1.0.0-beta04\res
+com.webview.example.flutter_webview.app-webkit-1.7.0-2 C:\Users\Administrator\.gradle\caches\transforms-3\42e5ec024b36c9bb75771580f651e3dd\transformed\webkit-1.7.0\res
+com.webview.example.flutter_webview.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Administrator\.gradle\caches\transforms-3\99750bb863b6fe460a7b5da8686e778d\transformed\jetified-window-java-1.0.0-beta04\res
+com.webview.example.flutter_webview.app-core-1.6.0-4 C:\Users\Administrator\.gradle\caches\transforms-3\d08c73bfb05384f2e52578171dbd141e\transformed\core-1.6.0\res
+com.webview.example.flutter_webview.app-debug-5 E:\Nasar Project\flutter_webview\android\app\src\debug\res
+com.webview.example.flutter_webview.app-main-6 E:\Nasar Project\flutter_webview\android\app\src\main\res
+com.webview.example.flutter_webview.app-pngs-7 E:\Nasar Project\flutter_webview\build\app\generated\res\pngs\debug
+com.webview.example.flutter_webview.app-resValues-8 E:\Nasar Project\flutter_webview\build\app\generated\res\resValues\debug
+com.webview.example.flutter_webview.app-rs-9 E:\Nasar Project\flutter_webview\build\app\generated\res\rs\debug
+com.webview.example.flutter_webview.app-mergeDebugResources-10 E:\Nasar Project\flutter_webview\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.webview.example.flutter_webview.app-mergeDebugResources-11 E:\Nasar Project\flutter_webview\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.webview.example.flutter_webview.app-merged_res-12 E:\Nasar Project\flutter_webview\build\app\intermediates\merged_res\debug
+com.webview.example.flutter_webview.app-packaged_res-13 E:\Nasar Project\flutter_webview\build\webview_flutter_android\intermediates\packaged_res\debug
