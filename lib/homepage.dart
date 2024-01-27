@@ -21,7 +21,7 @@ class HomePage extends StatelessWidget {
                             backgroundColor: Colors.blue,
                             textStyle: const TextStyle(fontSize: 30,fontWeight: FontWeight.bold),
                           ),
-                          child: Text('Open Link'),
+                          child: Text('Open Link Button'),
                           onPressed: () => _handleURLButtonPress(context),
                         ))
                   ],
